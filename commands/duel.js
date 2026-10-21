@@ -90,8 +90,8 @@ async function finir(api, tid, c) {
   if (eco.get(c.a).coins < c.bet || eco.get(c.b).coins < c.bet) return api.sendMessage("❌ Un joueur n'a plus assez de pièces. Duel annulé.", tid);
   const ra = R[c.pick[c.a] - 1], rb = R[c.pick[c.b] - 1];
   const win = Math.random() < ra.p / (ra.p + rb.p) ? c.a : c.b, lose = win === c.a ? c.b : c.a;
-  eco.update(win, (u) => { u.coins += c.bet; u.lastDuel = jour(); });
-  eco.update(lose, (u) => { u.coins -= c.bet; u.lastDuel = jour(); });
+  eco.update(win, (u) => { u.coins += c.bet; u.lastDuel = jour(); u.wins = (u.wins || 0) + 1; });
+  eco.update(lose, (u) => { u.coins -= c.bet; u.lastDuel = jour(); u.losses = (u.losses || 0) + 1; });
   const [na, nb] = await Promise.all([nom(api, c.a), nom(api, c.b)]);
   const buf = await vsImage(c, na, nb, win);
   await L.sendCard(api, tid, buf, "⚔️ " + (win === c.a ? na : nb) + " remporte le duel : +" + c.bet + " 💰");
