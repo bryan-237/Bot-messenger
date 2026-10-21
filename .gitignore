@@ -1,0 +1,12 @@
+node_modules
+appstate.json
+cookies.json
+account.txt
+groq.key
+claude.key
+fca-config*.json
+Fca_Database*
+'Fca_Database (copy 1)'
+*.bak
+tmp/
+.env

@@ -1,0 +1,28 @@
+{
+  "61581453916589": {
+    "userID": "61581453916589",
+    "name": "Bryan Sabin",
+    "money": 15000,
+    "exp": 0,
+    "data": {
+      "lastDaily": 1792339782030
+    },
+    "settings": {}
+  },
+  "61573267116639": {
+    "userID": "61573267116639",
+    "name": "Wilfried Atou",
+    "money": 0,
+    "exp": 0,
+    "data": {},
+    "settings": {}
+  },
+  "61593698142575": {
+    "userID": "61593698142575",
+    "name": "Kang Jinhyuk",
+    "money": 0,
+    "exp": 0,
+    "data": {},
+    "settings": {}
+  }
+}

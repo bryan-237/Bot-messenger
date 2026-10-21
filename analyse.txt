@@ -1,0 +1,59 @@
+admin | Quản lý admin bot |  | facebook.com | Users | 4856
+anime | Random lấy ảnh anime! (Safe For Work) |  |  |  | 2067
+baicao | Game bài cào dành cho nhóm có đặt cược |  |  | Users | 7646
+balance | Kiểm tra số tiền của bản thân hoặc người được tag |  |  | Currencies | 1271
+checktt | Kiểm tra lượt tương tác trong nhóm |  |  | Currencies | 3030
+choose | Nhờ bot chọn giúp một trong những thứ bạn cần làm  |  |  |  | 820
+command | Quản lý/Kiểm soát toàn bộ module của bot |  |  |  | 21763
+covid | Lấy thông tin về tình hình dịch bệnh COVID-19 |  | www.spermlord.ga |  | 1139
+daily | Nhận 200 coins mỗi ngày! |  |  | Currencies | 1775
+event | Quản lý/Kiểm soát toàn bộ module của bot |  |  |  | 19575
+nameCommand | say bla bla ở đây |  |  | Currencies,Users,Threads,models | 1897
+fast | Kiểm tra tốc độ mạng |  |  |  | 874
+fishing | Tham gia câu cá ngay trên chính nhóm của bạn |  |  | Currencies | 23665
+getlink | Lấy url download từ video, audio được gửi từ nhóm |  |  |  | 1035
+help | Hướng dẫn cho người mới |  |  |  | 3913
+hentaivn | Tìm kiếm thông tin truyện trên hentaivn |  | hentaivn.tv |  | 2582
+kick | Xoá người bạn cần xoá khỏi nhóm bằng cách tag |  |  | Threads | 1358
+math | Làm toán |  | api.wolframalpha.com |  | 4633
+meme | Random ảnh chế :D |  | meme-api.herokuapp.com |  | 928
+news | Tin tức trên vnexpress.net |  | timkiem.vnexpress.net |  | 2232
+nhentai | Tìm kiếm thông tin truyện trên nhentai |  | nhentai.net |  | 2139
+nsfw | Bật tắt quyền sử dụng các lệnh NSFW |  |  | Threads | 1562
+osu | Lấy thông tin osu thông qua tên người dùng |  | lemmmy.pw |  | 1234
+pay | Chuyển tiền cho người khác |  |  | Currencies,Users | 3414
+pending | Quản lý tin nhắn chờ của bot |  |  |  | 3610
+penis | ( ͡° ͜ʖ ͡°) |  |  |  | 324
+ping | tag toàn bộ thành viên |  |  |  | 767
+qr | Mã hoá văn bản bằng mã QR |  |  |  | 1144
+rank | Lấy rank hiện tại của bạn trên hệ thống bot, remak |  | graph.facebook.com | Currencies,Users | 5253
+rankup | Thông báo rankup cho từng nhóm, người dùng |  |  | Currencies,Users,Threads | 3079
+rname | Random biệt danh tiếng NHẬT 🤔 |  | www.behindthename.com |  | 640
+roleplay | Hun, ôm, ... đủ thứ trò in here! |  |  | Threads | 4806
+roll | Random một con số bất kì trong một khoảng |  |  |  | 1493
+run | running shell | eval |  | Currencies,Users,Threads,models | 853
+sauce | Tìm kiếm thông tin ảnh thông qua ảnh (chỉ dành cho |  |  |  | 2332
+say | Khiến bot trả về file âm thanh của chị google thôn |  | translate.google.com |  | 1239
+sendnoti | Gửi tin nhắn tới các nhóm! |  |  |  | 1162
+setjoin | Chỉnh sửa văn bản/ảnh động khi có thành viên mới t |  |  | Threads | 4211
+setleave | Chỉnh sửa văn bản/ảnh động khi có thành viên mới r |  |  | Threads | 3950
+setname | Đổi biệt danh trong nhóm của bạn hoặc của người bạ |  |  |  | 584
+setprefix | Đặt lại prefix của nhóm |  |  | Threads | 2249
+setrankup | Chỉnh sửa văn bản/ảnh động khi có thành viên mới v |  |  | Threads | 3913
+shortcut | Phiên bản xịn hơn của short, recode by CatalizCS! |  |  |  | 8009
+sing | Phát nhạc thông qua link YouTube hoặc từ khoá tìm  |  |  |  | 4512
+sleep | Tính thời gian đi ngủ hoàn hảo cho bạn |  |  |  | 2153
+slot | Đánh bạc bằng hình thức hoa quả |  |  | Currencies | 2658
+system | Xem thông tin phần cứng mà bot đang sử dụng |  |  | Threads | 2720
+thread | Cấm hoặc gỡ cấm nhóm | moment-timezone |  | Threads | 12947
+ttt | Play tictactoe with AI |  |  |  | 7091
+trans | Dịch văn bản |  | translate.googleapis.com |  | 1565
+uid | Lấy ID người dùng. |  |  |  | 556
+unsend | Gỡ tin nhắn của bot |  |  |  | 861
+uptime | Kiểm tra thời gian bot đã online |  |  | Threads | 1602
+user | Cấm hoặc gỡ cấm người dùng | moment-timezone |  | Users | 13684
+video | Phát video thông qua link YouTube hoặc từ khoá tìm |  |  |  | 4548
+wake | Tính thời gian thức dậy hoàn hảo cho bạn |  |  |  | 1550
+weather | Xem thông tin thời tiết tại khu vực |  | api.openweathermap.org |  | 2173
+wiki | Tìm mọi thông tin cần biêt thông qua Wikipedia |  | vi.wikipedia.org,en.wikipedia.org |  | 1324
+work | Có làm thì mới có ăn! |  |  | Currencies | 3276
